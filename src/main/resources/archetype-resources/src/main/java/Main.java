@@ -1,5 +1,3 @@
-package org.borud.proto;
-
 /**
  * Main entry point.
  *

@@ -1,5 +1,3 @@
-package org.borud.proto;
-
 import org.junit.*;
 import static org.junit.Assert.*;
 
