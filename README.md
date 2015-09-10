@@ -10,7 +10,7 @@ resides is:  `https://raw.githubusercontent.com/borud/repository/mvn-repo/`
     	-DarchetypeRepository=https://raw.githubusercontent.com/borud/repository/mvn-repo/ \
         -DarchetypeGroupId=org.borud   \
         -DarchetypeArtifactId=proto    \
-        -DarchetypeVersion=1.0
+        -DarchetypeVersion=1.1
     
 # References
 
